@@ -6,7 +6,7 @@ Prototype A
 
 The prototype A opens a real web page inside an iframe, and use the LESS browser compiler to update the CSS.
 
-[Live Demo]().
+[Live Demo](http://xwiki-contrib.github.io/bootstrap-customizer-prototypes/prototypeA/).
 
 * it uses LESS so it shows the real results
 * any wiki page can be seen in the preview frame
@@ -17,7 +17,7 @@ Prototype B
 
 This prototype emulates the behaviour of LESS when we change some variables.
 
-[Live Demo]().
+[Live Demo](http://xwiki-contrib.github.io/bootstrap-customizer-prototypes/prototypeB/).
 
 * The prototype runs quickly in the browser because there is no LESS compiler involved.
 * But the preview box is not a real page and cannot show all use-cases.
